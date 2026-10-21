@@ -51,7 +51,6 @@ nlp_lab_project/
 ├── app.py                     # Interactive Streamlit Web Dashboard
 ├── nlp_engine.py              # Core PyABSA Inference Engine
 ├── clean_data.py              # Dataset preparation and sampling script
-├── download_datasets.py       # Kagglehub dataset downloader
 ├── eval_semeval.py            # SemEval-2014 Academic Evaluation script
 ├── eval_semeval2014.ipynb     # Academic Evaluation Jupyter Notebook
 ├── evaluation_results.json    # Serialized academic metrics report
