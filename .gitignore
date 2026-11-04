@@ -1,14 +1,18 @@
+# Virtual Environment
 .venv/
 venv/
+env/
+
+# Python Cache
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter & Testing
 .ipynb_checkpoints/
-checkpoints/
-checkpoints.json
-*.state_dict
-*.bin
-*.pt
-*.pth
-.cache/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

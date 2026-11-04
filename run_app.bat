@@ -1,4 +1,4 @@
 @echo off
-call .venv\Scripts\activate.bat
-streamlit run app.py
+echo Starting Aspect-Based Sentiment Analysis Web App...
+.venv\Scripts\streamlit.exe run app.py
 pause
