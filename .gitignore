@@ -13,8 +13,10 @@ __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
 
-# Local guides & PDFs (do not push to GitHub)
+# Local guides & PDFs & Presentations (do not push to GitHub)
 *.pdf
+*.pptx
+create_presentation.py
 generate_pdf.py
 team_guide.html
 
