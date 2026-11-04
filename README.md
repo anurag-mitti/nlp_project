@@ -113,18 +113,7 @@ flowchart TD
 
 ---
 
-## 4. Complexity & Presentation Difficulty Ranking
-
-| Rank | Difficulty | Stage & File | Core Focus | Ideal Presenter |
-|:---:|:---:|---|---|---|
-| **1** | **Hardest** | **Stage 4:** Binding & Evaluation ([`aspect_binder_eval.py`](file:///a:/ACADEMICS/ACADEMICS%20SEM-5/NLP/nlp_lab_project/aspect_binder_eval.py)) | Boundary clipping + scratch metric math (Confusion Matrix, Macro-F1) | Strong system overview, evaluation math |
-| **2** | **Second Hardest** | **Stage 2:** Category Mapping ([`category_mapper.py`](file:///a:/ACADEMICS/ACADEMICS%20SEM-5/NLP/nlp_lab_project/category_mapper.py)) | Vector dot product, Euclidean L2 norm, and Cosine similarity math | Strong in linear algebra and mathematical formulas |
-| **3** | **Moderate** | **Stage 1:** Aspect Extraction ([`aspect_extractor.py`](file:///a:/ACADEMICS/ACADEMICS%20SEM-5/NLP/nlp_lab_project/aspect_extractor.py)) | POS tags, compound noun patterns, and opinion filtering | Strong in linguistics, grammar rules, pattern matching |
-| **4** | **Easiest** | **Stage 3:** Sentiment Engine ([`sentiment_engine.py`](file:///a:/ACADEMICS/ACADEMICS%20SEM-5/NLP/nlp_lab_project/sentiment_engine.py)) | Lexicon scoring, 3-token negation reversal, sigmoid confidence | Clean, intuitive logic, straightforward viva defense |
-
----
-
-## 5. Installation & Quickstart
+## 4. Installation & Quickstart
 
 ### Prerequisites
 - Python 3.10+
@@ -165,7 +154,7 @@ Or double-click `run_app.bat`.
 
 ---
 
-## 6. Streamlined File Structure
+## 5. Streamlined File Structure
 
 ```
 nlp_lab_project/
